@@ -17,11 +17,15 @@ h2{
     margin-left: 35%;
     padding: 10px;
     background-color: white;
-    height: 550px;
-    width: 550px;
+    height: 565px;
+    width: 565px;
     text-align: center;
 }
 
-img{
-    width: 200px;
+.img1{
+    width: 300px;
+}
+
+.img2{
+    width: 100px;
 }
