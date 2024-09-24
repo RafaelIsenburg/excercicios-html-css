@@ -5,11 +5,15 @@
 
 main{
     text-align: center;
-    margin: 35%;
+    margin-left: 35%;
+    width: 500px;
+    height: 500px;
+    padding: 5px;
 }
 
 .container1{
- background-color: grey;
+ background-color: lightgray;
+ padding: 5px;
 }
 
 .container2{
